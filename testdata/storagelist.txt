@@ -1,0 +1,14 @@
+storage-type,name,building,floor,room,tetrascience-magnet,manager,notes,number-of-shelves,number-of-doors,department
+-20C,Drop Off,1170,1,150,Calico-083,hannah,,5,0,Genomics
+4C,NovaSeq Flowcell,1170,1,163,Calico-138,hannah,,5,0,Genomics
+-20C,NovaSeq Cluster,1170,1,163,Calico-136,hannah,,5,6,Genomics
+-20C,NovaSeq SBS,1170,1,163,Calico-137,hannah,,5,5,Genomics
+RT,NovaSeq Wire Rack,1170,1,163,N/A,hannah,,1,0,Genomics
+RT,Picnic Table,1170,1,163,N/A,hannah,Picnic Table,0,0,Genomics
+-20C,Library Reagents,1170,3,309,Calico-120,hannah,,5,0,Genomics
+4C,Library Reagents + BioA,1170,3,306,Calico-114,hannah,BioA fridge,4,0,Genomics
+-20C,Mini Drop Off,1170,3,306,N/A,hannah,,3,0,Genomics
+4C,FA,1170,3,306,Calico-118,hannah,FA Fridge,5,0,Genomics
+-20C,Nelda + FA,1170,3,306,Calico-119,hannah,,5,0,Genomics
+RT,Library Reagent Wire Rack,1170,3,306,N/A,hannah,,4,0,Genomics
+-80C,Snow Leopard,1170,3,311,"Snow leopard",hannah,,5,0,Genomics
